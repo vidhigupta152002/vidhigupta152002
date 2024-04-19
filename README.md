@@ -3,8 +3,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 - 🤝 I’m looking to collaborate on **MERN Web Development projects**
+  
+- 🔭 Skilled in **C++ and C**
 
-- 🧠 I'm learning **Software Development**
+- 🧠 I'm currently working on **Web Development and Software Development skills**
 
 - ✉️ You can contact me at **vidhigupta152002@gmail.com**
 
