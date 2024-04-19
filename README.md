@@ -2,11 +2,12 @@
 <h3 align="center">A MERN-based Developer and a Problem Solver.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
-- 🤝 I’m looking to collaborate on **MERN Web Development projects**
   
 - 🔭 Skilled in **C++ and C**
 
 - 🧠 I'm currently working on **Web Development and Software Development skills**
+  
+- 🤝 I’m looking to collaborate on **MERN Web Development projects**
 
 - ✉️ You can contact me at **vidhigupta152002@gmail.com**
 
