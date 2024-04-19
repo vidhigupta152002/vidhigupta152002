@@ -1,7 +1,5 @@
 <h1 align="center">Hi, My name is Vidhi Gupta</h1>
 <h3 align="center">A MERN-based Developer and a Problem Solver.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
-
   
 - 🔭 Skilled in **C++ and C**
 
