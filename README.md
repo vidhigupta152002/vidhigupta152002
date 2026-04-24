@@ -1,4 +1,4 @@
-<h1 align="center">Hi, My name is Vidhi Gupta</h1>
+<h1 align="center">Hi, My name is Vidhiie Gupta</h1>
 <h3 align="center">A MERN-based Developer and a Problem Solver.</h3>
   
 - 🔭 Skilled in **C++ and C**
